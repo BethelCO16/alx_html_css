@@ -1,0 +1,1 @@
+This is kinda the continuation of the html_basic directory project, so on with it! <3
