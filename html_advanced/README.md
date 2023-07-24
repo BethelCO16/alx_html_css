@@ -1,1 +1,1 @@
-This is kinda the continuation of the html_basic directory project, so on with it! <3
+This is kinda the continuation of the html_basic directory project, so on with it! So I'm just trying to make this readme as long as possible (not very long though😅) so that I can complete the task of writing an 'amazing' readme <3
