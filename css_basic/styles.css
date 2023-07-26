@@ -1,0 +1,65 @@
+body, main
+{
+display: flex;
+}
+
+body
+{
+    flex-direction: column;
+   background-color: aliceblue;
+}
+
+main
+{
+flex-direction: row;
+ flex: auto;
+}
+
+article
+{
+    flex: 2;
+}
+
+aside
+{
+    flex: 1;
+}
+.child
+{
+    overflow-y: auto;
+}
+
+table, tr, th, td, caption
+{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+caption
+{
+    font-weight: bolder;
+}
+th
+{
+    font-weight: bold;
+}
+
+td
+{
+    text-align: center;
+}
+
+.child p
+{
+    text-align: center;
+}
+
+.child caption
+{
+    color: darkslategrey;
+}
+
+.logo
+{
+    font-size: 100px;
+}
