@@ -1,4 +1,4 @@
-body, main
+.container
 {
 display: flex;
 }
@@ -23,7 +23,7 @@ aside
 {
     flex: 1;
 }
-article, aside
+.child
 {
     overflow-y: auto;
 }
