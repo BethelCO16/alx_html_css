@@ -6,6 +6,7 @@ display: flex;
 body
 {
     flex-direction: column;
+   background-color: aliceblue;
 }
 
 main
@@ -26,4 +27,39 @@ aside
 .child
 {
     overflow-y: auto;
+}
+
+table, tr, th, td, caption
+{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+caption
+{
+    font-weight: bolder;
+}
+th
+{
+    font-weight: bold;
+}
+
+td
+{
+    text-align: center;
+}
+
+.child p
+{
+    text-align: center;
+}
+
+.child caption
+{
+    color: darkslategrey;
+}
+
+.logo
+{
+    font-size: 100px;
 }
