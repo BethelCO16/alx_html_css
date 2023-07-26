@@ -1,1 +1,0 @@
-Time to start my css_basic project!
